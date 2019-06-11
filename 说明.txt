@@ -1,0 +1,4 @@
+1.下载安装包
+https://svelte.dev/repl/hello-world?version=3.5.1
+点击下载按钮解压后
+>npm install
