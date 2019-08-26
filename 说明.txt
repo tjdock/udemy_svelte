@@ -1,4 +1,15 @@
-1.下载安装包
-https://svelte.dev/repl/hello-world?version=3.5.1
+﻿1.下载安装包
+https://svelte.dev/repl/hello-world
 点击下载按钮解压后
 >npm install
+
+2.启动项目
+>npm run dev
+
+sapper
+https://github.com/sveltejs/sapper-template
+
+发布
+>npm run build
+sapper
+>npm run export
